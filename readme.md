@@ -26,10 +26,14 @@ Technologies used in this project,
 
 This data science and machine learning project was completed by the following team members:
 
-Parth Garg
-Student ID: RA2011003010095
-Shivam Singh
-Student ID: RA2011003010087
-Pulkit Sharma
-Student ID: RA2011003010136
+1.  Parth Garg
+
+    -   Student ID: RA2011003010095
+2.  Shivam Singh
+
+    -   Student ID: RA2011003010087
+3.  Pulkit Sharma
+
+    -   Student ID: RA2011003010136
+
 These individuals collaborated on the project, utilizing their expertise in data science and machine learning to successfully accomplish the project objectives.
