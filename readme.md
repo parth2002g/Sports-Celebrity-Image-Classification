@@ -24,4 +24,12 @@ Technologies used in this project,
 7. HTML/CSS/Javascript for UI
 
 
-Here is the video playlist for entire project: https://www.youtube.com/playlist?list=PLeo1K3hjS3uvaRHZLl-jLovIjBP14QTXc
+This data science and machine learning project was completed by the following team members:
+
+Parth Garg
+Student ID: RA2011003010095
+Shivam Singh
+Student ID: RA2011003010087
+Pulkit Sharma
+Student ID: RA2011003010136
+These individuals collaborated on the project, utilizing their expertise in data science and machine learning to successfully accomplish the project objectives.
